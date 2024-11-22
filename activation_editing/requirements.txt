@@ -1,0 +1,13 @@
+transformers==4.37.2
+datasets
+torch
+safetensors
+scikit-learn
+numpy
+accelerate==0.28.0
+bitsandbytes
+packaging
+tqdm
+matplotlib
+seaborn
+pandas
